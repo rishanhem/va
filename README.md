@@ -1,3 +1,3 @@
 # va
 
-work in progress 
+use pip install mujoco
